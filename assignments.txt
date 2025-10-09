@@ -1,0 +1,4 @@
+9oct
+assignment1:
+1. try to authenticate your git hub repo with ssh method
+2. find difference between ssh and https auth
