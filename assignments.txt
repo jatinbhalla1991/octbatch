@@ -2,3 +2,8 @@
 assignment1:
 1. try to authenticate your git hub repo with ssh method
 2. find difference between ssh and https auth
+
+10 oct
+assignment2:
+1. try to apply the policy on master branch which doesn't allow user to merge the code directly to master branch without approval
+2. also apply another policy which requires atleast 1 user approval before merging
