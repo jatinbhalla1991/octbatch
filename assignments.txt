@@ -7,3 +7,4 @@ assignment1:
 assignment2:
 1. try to apply the policy on master branch which doesn't allow user to merge the code directly to master branch without approval
 2. also apply another policy which requires atleast 1 user approval before merging
+3. try git sheet commands https://education.github.com/git-cheat-sheet-education.pdf
