@@ -8,3 +8,9 @@ assignment2:
 1. try to apply the policy on master branch which doesn't allow user to merge the code directly to master branch without approval
 2. also apply another policy which requires atleast 1 user approval before merging
 3. try git sheet commands https://education.github.com/git-cheat-sheet-education.pdf
+
+17th oct
+assignment3:
+1. Find the difference between different types of items in jenkins
+2. for periodic run check the syntax
+3. create a pipeline which should execute on every monday at 7 pm and purpose of your pipeline is to check the directory and create backup of it
