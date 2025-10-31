@@ -14,3 +14,15 @@ assignment3:
 1. Find the difference between different types of items in jenkins
 2. for periodic run check the syntax
 3. create a pipeline which should execute on every monday at 7 pm and purpose of your pipeline is to check the directory and create backup of it
+
+31st
+assignment4:
+1. create a terraform code to create ec2 instance with ubuntu os
+2. its security group should allow the port number 8080
+3. try to explore if you have to run the terraform code from jenkins pipeline what all steps are required
+
+assignment5:
+1. In jenkins try to create a multi stage pipeline using the agent
+stage1: create some folders and files
+stage2: copy those file to another location
+stage3: verify if files are copied
